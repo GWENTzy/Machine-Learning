@@ -3,7 +3,7 @@
 This repository aims to summarized various machine learning projects that have been worked on during lectures
 
 In this repo, mostly I use some library such as:
-* Pandas <a href = "https://pandas.pydata.org/">
+* Pandas 
 * Matplotlib <a href = "https://matplotlib.org/">
 * Numpy <a href = "https://numpy.org/">
 * Scikit-learn <a href = "https://scikit-learn.org/stable/">
