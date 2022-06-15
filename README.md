@@ -3,10 +3,10 @@
 This repository aims to summarized various machine learning projects that have been worked on during lectures
 
 In this repo, mostly I use some library such as:
-* Pandas
-* Matplotlib
-* Numpy
-* Scikit-learn
+* Pandas (https://pandas.pydata.org/)
+* Matplotlib (https://matplotlib.org/)
+* Numpy (https://numpy.org/)
+* Scikit-learn (https://scikit-learn.org/stable/)
 
 ## Reminder
 
