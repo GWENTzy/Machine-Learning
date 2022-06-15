@@ -4,10 +4,10 @@ This repository aims to summarized various machine learning projects that have b
 
 In this repo, mostly I use some library such as :
 
-* Pandas <a href = "https://pandas.pydata.org/">
-* Matplotlib <a href = "https://matplotlib.org/">
-* Numpy <a href = "https://numpy.org/">
-* Scikit-learn <a href = "https://scikit-learn.org/stable/">
+* <a href = "https://pandas.pydata.org/"> Pandas
+* <a href = "https://matplotlib.org/"> Matplotlib
+* <a href = "https://numpy.org/"> Numpy
+* <a href = "https://scikit-learn.org/stable/"> Scikit-learn
 
 ## Reminder
 
